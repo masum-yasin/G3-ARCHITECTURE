@@ -1,0 +1,208 @@
+
+    
+    
+
+/* top header section start */
+.top-header-section{
+  background-color: rgb(253, 245, 234);
+}
+.top-leftbar h2{
+    margin-top:0;
+    margin-left:50%;
+}
+.top_section{
+    display: flex;
+    gap:60%;
+    white-space:nowrap;
+font-size:18px;
+
+
+}
+/* top header section Ending */
+
+
+/* header img section start */
+.header-img img{
+    width:1200px;
+    height:700px;
+   
+    margin-left:65px;
+   
+}
+/* header img section ending */
+
+
+/* top section */
+.top_section div,a{
+    text-decoration: none;
+    font-size:18px;
+    margin-top:5px;
+    
+ }
+ .top-leftbar{
+    margin-bottom:50px;
+    margin-left:5px;
+    margin-top:5px;
+ }
+ /* header new brand section start */
+ .new-brand{
+    text-align: center;
+    margin-bottom:50px;
+ }
+ .new-brand h1{
+    font-weight: bold;
+    font-size:40px;
+ }
+ .new-brand  button{
+    padding: 20px;
+    width: 150px;
+    background-color:rgba(255, 140, 0, 0.885);
+    color: white;
+    font-size: 15px;
+   }
+  /* header new brand section ending */
+  /* =========Quicklist-disflex-img start====== */
+  .Quicklist-disflex-img{
+    display: flex;
+    gap:10px;
+    
+  }
+  .Quicklist-disflex-img img{
+        width:260px;
+  }
+  .Quicklist-Main-disflex{
+    display: flex;
+    gap:90px;
+    margin-top:40px;
+    margin-left:60px;
+    margin-right:60px ;
+
+
+  }
+    /* =========Quicklist-disflex-img ending====== */
+  /* =========Quicklist-disflex text start====== */
+.Quicklist-disflex-text small{
+    font-size:40px;
+  }
+  .Quicklist-disflex-text small span{
+    color: orange;
+    font-weight: bold;
+  }
+  .Quicklist-disflex-text p{
+    font-size:25px;
+    font-style: italic;
+  }
+  .Quicklist-disflex-text button{
+    padding:20px;
+    width:170px;
+    background-color:orange;
+    color:white;
+  } 
+  .Quicklist-disflex-text {
+    margin-top:11%;
+  }
+  .pipe h1 span{
+    color: orange;
+   
+ }
+ .love{
+    display: flex;
+    gap:15%;
+    margin-top:40px;
+    margin-left:60px;
+    margin-right:60px ;
+
+
+ }
+ .love-img img{
+    width:450px ;
+ }
+ /* ===========some face section start====== */
+ .somefact-heading{
+  margin-top: 10px;
+  margin-left:60px;
+ }
+ .somefact-img{
+  border: 1px solid rgb(243, 160, 6);
+  width: 160px;
+  text-align: center;
+  padding: 10px;
+ }
+ .somefact-img h1{
+ margin-bottom: 10px;
+ }
+ .somefact-dflex{
+  display: flex;
+  gap:150px;
+  margin-left:60px;
+  margin-right:60px ;
+  margin-top:70px;
+ }
+ /* =========Our sponspore Section start========== */
+ .sponspore-heading{
+  text-align: center;
+  margin-top:60px;
+ }
+ .sponsors-dflex{
+ display: flex;
+ gap:80px;
+ justify-content: center;
+ margin-left:60px;
+margin-right:60px ;
+ margin-top:70px;
+ }
+ .sponsors-dflex img {
+  width: 110px;
+ }
+ 
+ /* =========footer section Start======== */
+ .footer-img{
+  background-image:url("images/background2.jpg");
+
+  height:350px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top:70px;
+ 
+}
+.footerbackground{
+  background-color: black;
+  height:320px;
+}
+
+.footer-content{
+  display: flex;
+  justify-content:space-around;
+  padding: 10px;
+  margin-top:-18px;
+color: white;
+
+ 
+}
+.footer-content h2{
+  color: yellow;
+}
+.horizontal{
+  margin-top: -15px;
+}
+.footer-button button{
+ 
+  text-align: center;
+  background-color: orange;
+  width: 700px;
+  padding:15px;
+  color: white;
+  font-size:16px;
+  margin-top:10px;
+  margin-left: 22%;
+  }
+  .fontawesome{
+    color: white;
+    font-size:25px;
+    margin-left: 40%;
+  }
+
+
+ 
